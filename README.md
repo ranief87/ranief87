@@ -47,13 +47,13 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PROMACAMputhon">동국 동락</a></td>
-    <td>Hackathon, Back-End Engineering</td>
-    <td>2024.07</td>
+    <td><a href=""></a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PROMAplatform">PROMA</a></td>
-    <td>Project, Back-End Engineering</td>
-    <td>2024.06 ~ Present</td>
+    <td><a href=""></a></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
