@@ -36,7 +36,7 @@
     <td>Backend-Engineering</td>
     <td>2022.03 ~ 2022.06</td>
  </tr>
-  <<tr>
+  <tr>
     <td><!--<a href="https://github.com/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5"></a>foryolo</td>-->
     <td>Project</td>
     <td>2022.03 ~ 2022.08</td>
