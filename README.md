@@ -27,24 +27,24 @@
     <th>Period</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/hallucination-devfest">Hallucination</a></td>
-    <td>Hackathon, Back-End Engineering</td>
-    <td>2025.01</td>
+    <td><a href=""></a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_34_BE">REBOOT OFFICE</a></td>
-    <td>Hackathon, Back-End Engineering</td>
-    <td>2024.11</td>
+    <td><a href=""></a></td>
+    <td></td>
+    <td></td>
  </tr>
   <tr>
-    <td><a href="https://github.com/TOPLEARTH">TOPLEARTH</a></td>
-    <td>Contest, Back-End Engineering</td>
-    <td>2024.10 ~ 2024.12</td>
+    <td><a href=""></a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DguFarmSystem/FarmHan_BE">FARMHAN</a></td>
-    <td>Project, Back-End Engineering</td>
-    <td>2024.08 ~ 2024.09</td>
+    <td><a href=""></a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/PROMACAMputhon">동국 동락</a></td>
