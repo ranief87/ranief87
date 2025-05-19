@@ -55,7 +55,7 @@
 <br>
 
 ## 📝 Publications
-- **** [🔗Link]()
-  - 
-- **** [🔗Link]()
-  - 
+- **Analysis of Accurate Fire Accident Identification Criteria based on YOLOv5** [🔗Link](https://docs.google.com/document/d/1XAXbhC76-SutjbGA4FPW8TVx8qHMwddm/edit?usp=drive_link&ouid=108838485704420908665&rtpof=true&sd=true)
+  - Ji Hwan Choe , Min Jung Jeon, Youn Soon Shin. BIC 2022
+- **맞춤형 NPO 채용 공고 추천 챗봇** [🔗Link](https://drive.google.com/file/d/1US2h4u3LVxKP-Om9hlhIGjUee8a_ZSQj/view?usp=drive_link)
+  - 민채은, 전민정, 박세홍, 주종화. 2024 KAICTS 277p~278p
