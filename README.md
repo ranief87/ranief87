@@ -37,7 +37,8 @@
     <td>2022.03 ~ 2022.06</td>
  </tr>
   <tr>
-    <td><!--<a href="https://github.com/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5"></a>foryolo</td>-->
+    <!--<td><a href="https://github.com/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5"></a>foryolo</td>-->
+    <td><a href="https://github.com/ranief87/2022_01_ICD_Fire_Dectect_yolov5">Fire Detect custom criteria</a></td>
     <td>Project</td>
     <td>2022.03 ~ 2022.08</td>
   </tr>
