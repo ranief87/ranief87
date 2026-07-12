@@ -46,18 +46,28 @@
   <tr>
     <!--<td><a href="https://github.com/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5"></a>foryolo</td>-->
     <td><a href="https://github.com/ranief87/2022_01_ICD_Fire_Dectect_yolov5">Fire Detect custom criteria</a></td>
-    <td></td>
+    <td>학습 데이터 생성 및 모델 학습</td>
     <td>2022.03 ~ 2022.08</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ranief87/pytorch_train">개별연구2</a></td>
-    <td></td>
+    <td><a href="https://github.com/ranief87/pytorch_train">CMTFusion</a></td>
+    <td>논문 분석 및 성능 고도화</td>
     <td>2024.03 ~ 2024.07</td>
   </tr>
   <tr>
-    <td><a href=""></a>NPO4U</td>
-    <td></td>
+    <td><a href="https://github.com/ranief87/2024-CECD">NPO4U</a></td>
+    <td>맞춤형 NPO 프로그램 추천 챗봇 개발</td>
     <td>2024.03 ~ 2024.12</td>
+  </tr>
+  <tr>
+    <td><a href=""></a>버블탭 인턴</td>
+    <td>AI 코어팀 - 프롬프트 엔지니어링</td>
+    <td>2025.08 ~ 2025.11</td>
+  </tr>
+  <tr>
+    <td><a href="https://lazy-loa1.vercel.app/">게으른 자들의 곳간</a></td>
+    <td>기획 및 웹사이트 개발</td>
+    <td>2026.04 ~ 2026.06</td>
   </tr>
 </table>
 <br>
