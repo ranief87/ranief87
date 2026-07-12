@@ -2,8 +2,9 @@
 
 ## 🏷️ Profile</h2>
 <ul align="left">
-  <li><strong>2020.3 ~ 2026.2</strong> : 동국대학교 컴퓨터공학전공 졸업(Dongguk University ‐ Major of Computer Science and Engineering)</li>
-  <li><strong>2020.3 ~ 2026.2</strong> : IT 동아리 DNA 임원진</li>
+  <li><strong>2020.3 ~ 2026.2</strong>   : 동국대학교 컴퓨터공학전공 졸업(Dongguk University ‐ Major of Computer Science and Engineering)</li>
+  <li><strong>2020.3 ~ 2026.2</strong>   : IT 동아리 DNA 임원진</li>
+  <li><strong>2025.8 ~ 2025.11</strong> : 청년인턴 버블탭 - AI 코어팀 인턴</li>
 </ul>
 <br>
 
@@ -15,6 +16,12 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NLP-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
 <br>
