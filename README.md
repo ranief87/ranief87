@@ -2,8 +2,8 @@
 
 ## 🏷️ Profile</h2>
 <ul align="left">
-  <li><strong>2020.3 ~</strong> : 동국대학교 컴퓨터공학전공(Dongguk University ‐ Major of Computer Science and Engineering)</li>
-  <li><strong>2020.3 ~</strong> : IT 동아리 DNA</li>
+  <li><strong>2020.3 ~ 2026.2</strong> : 동국대학교 컴퓨터공학전공 졸업(Dongguk University ‐ Major of Computer Science and Engineering)</li>
+  <li><strong>2020.3 ~ 2026.2</strong> : IT 동아리 DNA 임원진</li>
 </ul>
 <br>
 
