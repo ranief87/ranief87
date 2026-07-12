@@ -3,7 +3,7 @@
 ## 🏷️ Profile</h2>
 <ul align="left">
   <li><strong>2020.3 ~ 2026.2</strong>   : 동국대학교 컴퓨터공학전공 졸업(Dongguk University ‐ Major of Computer Science and Engineering)</li>
-  <li><strong>2020.3 ~ 2026.2</strong>   : IT 동아리 DNA 임원진</li>
+  <li><strong>2020.3 ~ 2026.2</strong>   : IT 동아리 DNA 임원진(회장 3년, 부회장 2년)</li>
   <li><strong>2025.8 ~ 2025.11</strong> : 청년인턴 버블탭 - AI 코어팀 인턴</li>
 </ul>
 <br>
