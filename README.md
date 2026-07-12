@@ -65,7 +65,7 @@
     <td>2025.08 ~ 2025.11</td>
   </tr>
   <tr>
-    <td><a href="https://lazy-loa1.vercel.app/">게으른 자들의 곳간</a></td>
+    <td><a href="">게으른 자들의 곳간</a></td>
     <td>기획 및 웹사이트 개발</td>
     <td>2026.04 ~ 2026.06</td>
   </tr>
@@ -73,7 +73,7 @@
 <br>
 
 ## 📝 Publications
-- **Analysis of Accurate Fire Accident Identification Criteria based on YOLOv5** [🔗Link](https://docs.google.com/document/d/1XAXbhC76-SutjbGA4FPW8TVx8qHMwddm/edit?usp=drive_link&ouid=108838485704420908665&rtpof=true&sd=true)
+- **Analysis of Accurate Fire Accident Identification Criteria based on YOLOv5** [🔗Link](https://github.com/ranief87/2022_01_ICD_Fire_Dectect_yolov5/blob/main/Analysis%20of%20Accurate%20Fire%20Accident%20Identification%20Criteria%20based%20on%20YOLOv5.docx)
   - Ji Hwan Choe , Min Jung Jeon, Youn Soon Shin. BIC 2022
-- **맞춤형 NPO 채용 공고 추천 챗봇** [🔗Link](https://drive.google.com/file/d/1US2h4u3LVxKP-Om9hlhIGjUee8a_ZSQj/view?usp=drive_link)
+- **맞춤형 NPO 채용 공고 추천 챗봇** [🔗Link](https://github.com/ranief87/2024-CECD/blob/main/2024_KAICTS_%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%2B%EB%85%BC%EB%AC%B8%EC%A7%91%20%ED%86%B5%ED%95%A9.pdf)
   - 민채은, 전민정, 박세홍, 주종화. 2024 KAICTS 277p~278p
