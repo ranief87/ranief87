@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## 🏷️ Profile</h2>
 <ul align="left">
